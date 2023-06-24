@@ -7,21 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Accomplishments
+    url: '#recent-accomplishments'
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   - name: Posts
     url: '#posts'
-    weight: 40
-  - name: Accomplishments
-    url: '#accomplishments'
     weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 100
   - name: CV
     url: 'files/Joshua Cook CV.pdf'
-    weight: 100
+    weight: 200
