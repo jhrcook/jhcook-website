@@ -8,8 +8,10 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
 ---
+
+I contribute to [R-Bloggers](https://www.r-bloggers.com) and [RWeekly](https://rweekly.org).
