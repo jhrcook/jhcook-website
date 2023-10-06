@@ -7,7 +7,7 @@ summary: "A review of my favorite books of the year and why I enjoyed them so mu
 authors: []
 tags: [reading, books]
 categories: []
-date: 2023-09-23T13:50:08-04:00
+date: 2023-12-25T13:50:08-04:00
 lastmod: 2023-09-23T13:50:08-04:00
 featured: false
 draft: true
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-This year, I made a cognisent push to read more often and consistently.
+This year, I made a cognizant push to read more often and consistently.
 I think I was successful, definitely improving over the previous year, and I finished [N books this year](https://www.goodreads.com/challenges/11633-2023-reading-challenge). <!-- TODO (JHC): Fill in final number of books. -->
 Below is a review of my favorite books of the year.
 
