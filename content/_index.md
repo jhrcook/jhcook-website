@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: Proficient
-          icon: r-project
-          icon_pack: fab
         - name: Python
           description: Proficient
           icon: python
           icon_pack: fab
-        - name: Swift
+        - name: Rust
           description: Intermediate
-          icon: swift
+          icon: rust
+          icon_pack: fab
+        - name: R
+          description: Proficient
+          icon: r-project
           icon_pack: fab
         - name: Bayesian modeling
           description: Proficient
