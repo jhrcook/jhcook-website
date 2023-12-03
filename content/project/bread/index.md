@@ -75,9 +75,14 @@ Below are some photos of boules I have made following these recipes.
 
 ![](assets/bread/2022-05-25.jpeg)
 
+I have recently experimented with adding ingredients to my bread, starting with a raisin and pistachio bread, then trying a dried cranberry and pecan bread.
+The folks at work enjoyed them, so I'll keep trying out more flavors, maybe trying some savory combinations, too.
+
+![Raisin and pistachio in a *biga* with 50% whole wheat bread.](assets/bread/2023-11-06_-raisin-pistachio.jpeg) ![Dried cranberry and pecan in a *biga* with 50% whole wheat bread.](assets/bread/2023-11-13_cranberry-pecan.jpeg)
+
 This recipe also makes great focaccia!
 
-![](assets/2022/2022-06-14-focaccia.jpeg)
+![](assets/bread/2022-06-14-focaccia.jpeg)
 
 ## Pizza
 
