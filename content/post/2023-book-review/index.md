@@ -6,7 +6,7 @@ subtitle: "My top picks from the book I read this year."
 summary: "A review of my favorite books of the year and why I particularly enjoyed them."
 authors: []
 tags: [reading, books]
-categories: []
+categories: [Hobbies]
 date: 2023-12-31T00:00:00-00:00
 lastmod: 2023-12-04T13:50:08-04:00
 featured: false
