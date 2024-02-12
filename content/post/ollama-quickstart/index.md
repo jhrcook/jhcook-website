@@ -5,8 +5,8 @@ title: "Quickstart for playing with LLMs locally"
 subtitle: "A simple tutorial for getting up and running with LLMs running on your local computer."
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: [tutorial, ML, AI, LLM]
+categories: [Programming]
 date: 2024-01-31T07:30:13-05:00
 lastmod: 2024-01-31T07:30:13-05:00
 featured: false
